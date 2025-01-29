@@ -42,8 +42,5 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **Visual Communicator
 ## 📫 Let's Connect!  
 - **Email**: ajstrauman@gmail.com  
 - **LinkedIn**: [linkedin.com/in/ajstrauman](#)  
-- **Portfolio**: [ajstraumanscott.com](#)  
+- **Portfolio**: [ajstrauman.com](#)  
 
----
-
-💡 *“Data is not just numbers—it's the story of how we live, work, and create change. Let’s use it to shape a better future.”*  
